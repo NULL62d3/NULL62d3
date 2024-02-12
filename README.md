@@ -1,4 +1,4 @@
-Hi, I’m @NULL62d3
+Hi, I’m @NULL
 
 <!---
 NULL62d3/NULL62d3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
